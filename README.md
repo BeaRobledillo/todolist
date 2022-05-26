@@ -31,7 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 > Normally, we use applications to write down tasks that we have to do during projects. This time, instead of using an external application, we will do our own. Also, we will need to store those tasks to check which ones have been completed throughout the week.
 > 
 
-** Estimated time:** 1 sprint of 1 week
+**Estimated time:** 1 sprint of 1 week
 
  **Functional requirements:**
 
