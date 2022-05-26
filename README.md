@@ -26,14 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-**Project context
+**Project context**
 
 > Normally, we use applications to write down tasks that we have to do during projects. This time, instead of using an external application, we will do our own. Also, we will need to store those tasks to check which ones have been completed throughout the week.
 > 
 
 ** Estimated time:** 1 sprint of 1 week
 
-Functional requirements:** ** New tasks can be added.
+ **Functional requirements:**
 
 - New tasks can be added.
 - Tasks can be checked (it changes color).
@@ -43,7 +43,7 @@ Functional requirements:** ** New tasks can be added.
 - Extra:
     - As a plus, a button where tasks can be filtered.
  
- ** Non-functional requirements:**
+ **Non-functional requirements:**
 
 - The web must be in *deploy,* even if it is under development.
 - GitFlow is required.
